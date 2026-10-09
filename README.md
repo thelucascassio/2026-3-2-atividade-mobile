@@ -18,10 +18,14 @@ Aluno: Lucas Cássio Araújo Oliveira
 
 ### Frontend mobile no navegador
 
+* Tela normal
 ![alt text](image.png)
+
+* Tela com proporções reduzidas
+![alt text](image-1.png)
 
 ### Frontend mobile no celular
 
-> Publica aqui o print da aplicação react native no celular
+![alt text](image-3.png)
 
 ---
