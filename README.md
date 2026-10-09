@@ -18,7 +18,7 @@ Aluno: Lucas Cássio Araújo Oliveira
 
 ### Frontend mobile no navegador
 
-> Publica aqui o print da aplicação react native no navegador
+![alt text](image.png)
 
 ### Frontend mobile no celular
 

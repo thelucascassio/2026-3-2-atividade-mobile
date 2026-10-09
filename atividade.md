@@ -11,8 +11,8 @@
 - [X] Fork desse respositório;
 - [X] Atualize os textos de README.md com seu nome e links do github e linkedin;
 - [ ] Seguindo a [nota de aula sobre introdução a react native](https://github.com/infoweb-pos/rn-01-introducao), crie 1 aplicação react native
-  - [ ] Modifique a página principal do aplicativo com o seu nome no lugar de `Welcome to&nbsp;Expo`
-  - [ ] Abra a aplicação no navegdor, faça a captura da tela e publique nesse repositório (lembre de colocar o link no README.md)
+  - [X] Modifique a página principal do aplicativo com o seu nome no lugar de `Welcome to&nbsp;Expo`
+  - [X] Abra a aplicação no navegador, faça a captura da tela e publique nesse repositório (lembre de colocar o link no README.md)
   - [ ] Abra a aplicação no celular, faça a captura da tela e publique nesse repositório (lembre de colocar o link no README.md)
 
 ---
