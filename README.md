@@ -1,4 +1,4 @@
-# 2026.3.2 - POS - Frondend mobile
+# 2026.3.2 - POS - Frontend mobile
 
 ## Informações gerais
 
@@ -12,7 +12,9 @@
 ---
 ## Relato da atividade
 
-Nome do aluno e seu link do linkedin e github
+Aluno: Lucas Cássio Araújo Oliveira
+[GitHub] (https://github.com/thelucascassio)
+[LinkedIn] (https://www.linkedin.com/in/lucas-cássio-oliveira-014a39343)
 
 ### Frontend mobile no navegador
 
